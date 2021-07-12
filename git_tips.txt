@@ -4,3 +4,5 @@ git add . - додати усі файли під контроль гіта
 git commit -m "msg" - закомітити файли
 git push -  "залити" файли на GitHub
 git pull - стягнути зміни з GitHub
+git branch "branch_name" - створити гілку
+git checkout  "branch_name" - перейти на гілку
