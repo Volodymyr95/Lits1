@@ -22,6 +22,8 @@ public class Main {
         //int i = 10;
           var i = 10f;
 
+        System.out.println("Hello LITS!");
+
     }
 }
 
